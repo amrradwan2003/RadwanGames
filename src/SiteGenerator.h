@@ -10,6 +10,7 @@ struct Page {
 class SiteGenerator {
 public:
     void Generate(const Page& page);
+    std::string LoadContent(const std::string& path);
 
 private:
     std::string LoadFile(const std::string& path);

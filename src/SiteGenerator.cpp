@@ -39,3 +39,8 @@ void SiteGenerator::Generate(const Page& page) {
 
     WriteFile(page.outputPath, html);
 }
+
+std::string SiteGenerator::LoadContent(const std::string& path) {
+    return LoadFile(path);
+}
+

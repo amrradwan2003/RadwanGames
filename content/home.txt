@@ -1,0 +1,3 @@
+<h1>RadwanGames</h1>
+<p> In this website I will put everything related to game design, uncluding mechanics, 3D models, showcasing techniques, blogging my experiences and playable prototypes.
+</p>

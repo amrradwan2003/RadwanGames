@@ -1,0 +1,19 @@
+<head>
+  <base href="/RadwanGames/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bio — RadwanGames</title>
+</head>
+<body>
+  <nav>
+    <a href="./">Home</a>
+    <a href="./games/">Games</a>
+    <a href="./blogs/">Blogs</a>
+    <a href="./prototypes/">Prototypes</a>
+    <a href="./Bio/">Bio</a>
+  </nav>
+
+  <main>
+    
+  </main>
+</body>
